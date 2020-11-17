@@ -217,13 +217,10 @@ img{
   right: 0;
   bottom: 0;
   width: 295px;
-}
-.ajinkya{
-  margin-left: 120px;
-  border: 1px solid black;
+  border:1px solid black;
   border-radius: 25px;
-  margin-bottom: 50px; 
 }
+
 
 /*BUTTONS*/
 .button{
